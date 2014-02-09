@@ -1,0 +1,20 @@
+﻿La génération a démarré 09/02/2014 01:48:46.
+     1>Projet "C:\Users\Pierre Vuillemin\Desktop\Logiciels\C++\Essais\Essais\Essais.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Création de "Debug\Essais.unsuccessfulbuild", car "AlwaysCreate" a été spécifié.
+       ClCompile:
+         Toutes les sorties sont à jour.
+       ManifestResourceCompile:
+         Toutes les sorties sont à jour.
+       Link:
+         Toutes les sorties sont à jour.
+       Manifest:
+         Toutes les sorties sont à jour.
+       FinalizeBuildStatus:
+         Suppression du fichier "Debug\Essais.unsuccessfulbuild".
+         Mise à jour de l'horodatage "Debug\Essais.lastbuildstate".
+     1>Génération du projet "C:\Users\Pierre Vuillemin\Desktop\Logiciels\C++\Essais\Essais\Essais.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.07
