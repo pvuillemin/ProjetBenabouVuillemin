@@ -1,7 +1,7 @@
 // normal_distribution
 #include <iostream>
 #include <random>
-#include<string>
+#include <string>
 using namespace std;
 
 int main()
