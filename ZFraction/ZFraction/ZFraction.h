@@ -6,8 +6,8 @@
 //  Copyright (c) 2014 Nathan Benabou. All rights reserved.
 //
 
-#ifndef __ZFraction__ZFraction__
-#define __ZFraction__ZFraction__
+#ifndef __ZFraction
+#define __ZFraction
 
 #include <iostream>
 
