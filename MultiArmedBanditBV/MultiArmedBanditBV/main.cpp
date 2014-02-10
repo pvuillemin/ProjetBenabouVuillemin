@@ -1,10 +1,14 @@
 #include <iostream>
-#include <string>
+#include <random>
+#include "Arm.h"
+#include "Exponential.h"
+
 using namespace std;
 
-
-int main ()
+int main()
 {
-cout << "hello";
-return 0;
+    Exponential Bras1(3.2);
+    cout << Bras1.Generate() << endl;
+    return 0;      
+	
 }
