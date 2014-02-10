@@ -3,7 +3,7 @@
 
 Arm::Arm(void)
 {
-	_nombreTirages = 0;
+	_timesChosen = 0;
 }
 
 

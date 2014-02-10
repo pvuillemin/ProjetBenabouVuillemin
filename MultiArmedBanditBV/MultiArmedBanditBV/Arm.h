@@ -1,12 +1,14 @@
 #pragma once
+#include <vector>
 class Arm
 {
 public:
 	Arm(void);
 	~Arm(void);
 	virtual double Generate() = 0;
-private:
-	int _nombreTirages;
-
+protected:
+	int _timesChosen;
+	std:: vector <double> _history;
+	std:: vector <double> _parameters;
 };
 

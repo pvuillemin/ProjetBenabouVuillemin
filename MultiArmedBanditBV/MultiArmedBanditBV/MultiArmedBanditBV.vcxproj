@@ -77,10 +77,12 @@
     <ClCompile Include="Arm.cpp" />
     <ClCompile Include="Exponential.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="UniformReal.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arm.h" />
     <ClInclude Include="Exponential.h" />
+    <ClInclude Include="UniformReal.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

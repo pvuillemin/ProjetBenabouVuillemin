@@ -9,6 +9,6 @@ public:
 	double Generate();
 
 private:
-    double _parameter;
+    
 };
 
