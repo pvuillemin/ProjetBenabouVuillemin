@@ -75,13 +75,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Arm.cpp" />
+    <ClCompile Include="Bandit.cpp" />
     <ClCompile Include="Exponential.cpp" />
     <ClCompile Include="main.cpp" />
+    <ClCompile Include="Player.cpp" />
     <ClCompile Include="UniformReal.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Arm.h" />
+    <ClInclude Include="Bandit.h" />
     <ClInclude Include="Exponential.h" />
+    <ClInclude Include="Player.h" />
     <ClInclude Include="UniformReal.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
