@@ -1,4 +1,4 @@
-﻿Build started 10/02/2014 22:59:03.
+﻿Build started 12/02/2014 14:36:24.
      1>Project "C:\Users\ilana\Documents\GitHub\ProjetBenabouVuillemin\MultiArmedBanditBV\MultiArmedBanditBV\MultiArmedBanditBV.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\MultiArmedBanditBV.unsuccessfulbuild" because "AlwaysCreate" was specified.
@@ -17,4 +17,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:00.10
+Time Elapsed 00:00:00.08

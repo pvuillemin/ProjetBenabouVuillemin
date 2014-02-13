@@ -6,7 +6,7 @@ class UniformReal :
 public:
 	UniformReal(double parameter1, double parameter2);
 	~UniformReal(void);
-	double Generate();
+	virtual double Generate();
 
 private:
 

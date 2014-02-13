@@ -6,7 +6,8 @@ class Exponential :
 public:
 	Exponential (double parameter);
 	~Exponential(void);
-	double Generate();
+	virtual double Generate();
+	
 
 private:
     
